@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#outfit {
+    margin-top: 20px;
+}
+
+#outfit img {
+    max-width: 300px;
+    height: auto;
+}
